@@ -1,2 +1,5 @@
-# Just-little-phyton-login-system
-This is my first login project, hopefully I will have better projects in the future :)
+username = input("username:  ")
+password = input("password:  ")
+
+if username == "admin" and password == "1234":
+    print("login successful: )
